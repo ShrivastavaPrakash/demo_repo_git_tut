@@ -1,6 +1,6 @@
 # Demo
 
-Some descriptuion !
+Some description !
 
 
 
