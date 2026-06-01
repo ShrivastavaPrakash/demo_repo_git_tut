@@ -21,3 +21,10 @@ Watch tutorial from FreeCodeCamp.
 # git push - to make the cahnges we made live on git 
 # git push origin master/main // where origin is an option set for us here  and basiclly a word that stands for the location of our git repositiory 
 # while master/main is the branch we want to push to 
+
+
+
+## Local Developement
+
+
+1. open index.html in browser .
